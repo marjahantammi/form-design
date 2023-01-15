@@ -1,0 +1,170 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&family=Nunito+Sans:wght@200&display=swap');
+body{
+
+    background-color: #DDF4EE;
+    padding: 20px;
+    margin: 10px auto;
+    width: 500px;
+    /* border: 5px solid salmon; */
+}
+.name-info, .email-info, .address-info, .product-info{
+    margin: 10px;
+    
+}
+.form-item{
+    padding: 10px;
+    margin: 5px;
+    
+}
+
+
+.email-info{
+    display: flex;
+}
+
+.address-item{
+    width: 370px;
+}
+.address-sub-info{
+    display: flex;
+}
+
+.product-info{
+    display: flex;
+}
+
+.btn{
+    padding: 10px 20px;
+    border: 1px solid seagreen;
+    border-radius: 30px ;
+    text-transform: uppercase;
+    color: white;
+    background-color: seagreen;
+    align-items: center;
+}
+
+label{
+    color: seagreen;
+}
+input{
+    border: 1px solid seagreen;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
